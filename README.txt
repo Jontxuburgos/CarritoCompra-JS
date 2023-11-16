@@ -5,6 +5,7 @@ Desarrollo de funcionalidades de un carrito con JS.
 - Eliminar productos del carrito
 - Vaciar carrito
 
+Enlace a la app: https://celadon-sherbet-6ed13d.netlify.app
 ----------------------------------------------------------------------------------------
 
 El contenido HTML y CSS pertenece a Juan Pablo De la torre Valdez. 
