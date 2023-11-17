@@ -4,6 +4,7 @@ Desarrollo de funcionalidades de un carrito con JS.
 - Acumular un mismo producto en el carrito
 - Eliminar productos del carrito
 - Vaciar carrito
+- Implementación de guardar los datos de carrito en localStorage
 
 Enlace a la app: https://celadon-sherbet-6ed13d.netlify.app
 ----------------------------------------------------------------------------------------
