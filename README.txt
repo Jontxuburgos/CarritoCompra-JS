@@ -6,7 +6,7 @@ Desarrollo de funcionalidades de un carrito con JS.
 - Vaciar carrito
 - Implementación de guardar los datos de carrito en localStorage
 
-Enlace a la app: https://celadon-sherbet-6ed13d.netlify.app
+Enlace a la app: https://gentle-bavarois-8968e6.netlify.app
 ----------------------------------------------------------------------------------------
 
 El contenido HTML y CSS pertenece a Juan Pablo De la torre Valdez. 
